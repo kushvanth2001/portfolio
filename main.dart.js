@@ -79762,7 +79762,7 @@ l=l.a
 l===$&&A.a()
 l=m.a.a/l.a
 a2=a0?1:2
-if(a0)s=240*l
+if(a0)s=200*l
 else if(A.b4(a3,e,c).w.a.a<400){s=$.ea()
 r=s.d
 r===$&&A.a()
@@ -79773,7 +79773,7 @@ r=s.d
 r===$&&A.a()
 s=s.a
 s===$&&A.a()
-s=130*(r.a.a/s.a)}k=A.cb(e,A.anl(new A.zT(a2,10,60,s),new A.a8c(this,b.a.a,a0),4),B.l,e,e,e,e,280*l,e,new A.aI(30,0,0,0),e,e,k.a.a)
+s=100*(r.a.a/s.a)}k=A.cb(e,A.anl(new A.zT(a2,10,60,s),new A.a8c(this,b.a.a,a0),4),B.l,e,e,e,e,280*l,e,new A.aI(30,0,0,0),e,e,k.a.a)
 l=A.c8("Certifications:",e,e,e,A.cd(e,e,B.H,e,e,e,e,e,d,e,e,20,e,e,B.a3,e,e,!0,e,e,e,e,e,e,e,e),e)
 c=A.b4(a3,e,c).w
 b=$.ea()
